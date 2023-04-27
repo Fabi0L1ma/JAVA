@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Medias_Alturas {
+public class Produto {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
