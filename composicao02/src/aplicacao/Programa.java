@@ -34,7 +34,6 @@ public class Programa {
 		System.out.println(p1 + "\n");
 		System.out.println(p2);
 		
-
 	}
 
 }
