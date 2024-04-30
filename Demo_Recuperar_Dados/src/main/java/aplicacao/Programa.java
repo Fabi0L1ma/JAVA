@@ -19,7 +19,7 @@ public class Programa {
             
             st = conn.createStatement();
             
-            rs = st.executeQuery("SELECT * FROM DEPARTAMENTO"); // ST = PASSA O COMANDO SQL     E     RS = 
+            rs = st.executeQuery("SELECT * FROM DEPARTAMENTO");
             
             while(rs.next()){
                 System.out.println(rs.getInt("ID") + ", " + rs.getString("NOME"));
