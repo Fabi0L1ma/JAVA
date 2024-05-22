@@ -1,0 +1,4 @@
+aplicacao\Programa.class
+DTO\JogadorDTO.class
+DAO\JogadorDAO.class
+DAO\BD.class
